@@ -41,6 +41,7 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 | | Sivertsen VPS | I give you more profit than other validators | @villiamsivertsen.test | -% | NO | | |
 | | OlaiOlsen | More tokens, more stakes! | @olaiolsen.test | -% | NL | | |
 | | OliGarr | - | @oligarr.test | -% | UK | | |
+| | ^ Warger ^ | Professional validator | @warger01.betanet | -% | RU | | |
 | | Launo.Osku.Arttu | Hot Finnish Guy (as Validator, of course) | @launooskuarttu.test | -% | FI | | |
 | <img src="https://github.com/Moonlet/wallet-app/raw/master/ios/Moonlet/Images.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png" width="40"> | [Moonlet](https://moonlet.io) | Moonlet is a cryptocurrency wallet that allows you to stake easily and secure different crypto assets. Available on iOS, Android and Google Chrome. | @moonlet.test | -% | RO | | |
 | <img src="https://bitoven.me/assets/img/logo.png" width="40"> | [Bitoven](https://bitoven.me) | Just a small guy with small budget but high node uptime who love crypto. If you like decentralization spirit, stake with me! :smile: | @bitoven.test | -% | ID | | |
